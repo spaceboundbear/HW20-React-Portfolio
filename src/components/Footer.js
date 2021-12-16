@@ -22,3 +22,5 @@ function Footer() {
 }
 
 export default Footer;
+
+// https://react-bootstrap.netlify.app/components/cards/#header-and-footer

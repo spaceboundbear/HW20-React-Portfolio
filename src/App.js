@@ -1,18 +1,17 @@
 import React from 'react';
 import Navbar from './components/Navbar';
-import Header from './components/Header';
 import Section from './components/Section';
 import Footer from './components/Footer';
-import { Card } from 'react-bootstrap';
+import { Container } from 'react-bootstrap';
 
 function App() {
   return (
     <div>
       <Navbar />
-      <Card>
-        <Header />
+
+      <Container>
         <Section />
-      </Card>
+      </Container>
       <Footer />
     </div>
   );

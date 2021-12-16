@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/Container';
 function Header() {
   return (
     <Container>
-      <h3 className="mt-5">Header</h3>
+      <h3 className="mt-5 bold">Header</h3>
     </Container>
   );
 }

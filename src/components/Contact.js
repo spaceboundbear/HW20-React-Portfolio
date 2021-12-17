@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Container, Form } from 'react-bootstrap';
+import { Container } from 'react-bootstrap';
 
 function Contact() {
   return (

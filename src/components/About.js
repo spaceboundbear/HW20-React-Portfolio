@@ -3,23 +3,21 @@ import Headshot from '../assets/images/headshot.png';
 import UTSA from '../assets/images/utsa.png';
 import Image from 'react-bootstrap/Image';
 import Col from 'react-bootstrap/Col';
-import TechCards from './techCards';
 import { Card, Row } from 'react-bootstrap';
-import tech from '../tech';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function About() {
   return (
     <div className="mt-5 w-75 container bg-dark my-5 pb-5 text-light">
       <Row>
-        <Col sm={12} md={5} lg={4} xl={3} my={3}>
+        <Col sm={12} md={5} lg={4} xl={3} my={3} className="mt-3">
           <Image
             roundedCircle
             className="py-4 px-2 pb-sm-0 ms-3 img-responsive w-80"
             src={Headshot}
           />
         </Col>
-        <Col>
+        <Col className="mt-3">
           <Card.Body className="my-lg-3 col-9 col-md-12 col-sm-12 my-sm-0 w-100">
             <Card.Title className="fw-bold fs-2">Hey There!</Card.Title>
             <Card.Text>
@@ -34,25 +32,9 @@ function About() {
       </Row>
 
       <Row>
-        <Card className="bg-dark my-5 border-0 px-5 ">
-          <Card.Title className="fw-bold my-2 fs-2">Technologies</Card.Title>
-          <div className="grid-container d-flex flex-wrap">
-            {tech.map((technology) => (
-              <TechCards
-                key={technology.id}
-                id={technology.id}
-                icon={technology.icon}
-                name={technology.name}
-              />
-            ))}
-          </div>
-        </Card>
-      </Row>
-
-      <Row>
-        <Card className="bg-dark  border-0 px-5">
+        <Card className="bg-dark mt-5 border-0 px-5">
           <Card.Title className="fw-bold my-2 fs-2"> Certification</Card.Title>
-          <Col>
+          <Col sm={12} md={5} lg={4} xl={3}>
             <Image className="my-4" src={UTSA} width={200} />
           </Col>
           <Col>

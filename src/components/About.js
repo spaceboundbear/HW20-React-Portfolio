@@ -26,8 +26,8 @@ function About() {
               My name is Michael Fischer, and I'm a Full Stack Web Developer (in
               training) based in San Antonio, TX. When I’m not behind a
               computer, you can find me scuba diving at the lake, out hiking, or
-              hanging out with my cats. Check out some of my work below, along
-              with my resume and other ways to contact me!
+              hanging out with my cats. Check out some of my work in my
+              Portfolio, take a look at my Resume and shoot me an email!
             </Card.Text>
           </Card.Body>
         </Col>

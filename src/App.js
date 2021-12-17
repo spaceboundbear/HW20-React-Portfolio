@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './components/Navbar';
-import Section from './components/Section';
+import Main from './components/Main';
 import Footer from './components/Footer';
 import { Container } from 'react-bootstrap';
 
@@ -10,7 +10,7 @@ function App() {
       <Navbar />
 
       <Container>
-        <Section />
+        <Main />
       </Container>
       <Footer />
     </div>

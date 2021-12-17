@@ -10,6 +10,7 @@ function Main() {
     <Routes>
       <Route exact path="/" element={<About />}></Route>
       <Route exact path="/about" element={<About />}></Route>
+      <Route exact path="/HW20-React-Portfolio" element={<About />}></Route>
       <Route exact path="/portfolio" element={<Portfolio />}></Route>
       <Route exact path="/contact" element={<Contact />}></Route>
     </Routes>

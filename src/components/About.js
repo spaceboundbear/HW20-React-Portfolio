@@ -17,7 +17,7 @@ function About() {
             src={Headshot}
           />
         </Col>
-        <Col className="mt-3">
+        <Col className="mt-4">
           <Card.Body className="my-lg-3 col-9 col-md-12 col-sm-12 my-sm-0 w-100">
             <Card.Title className="fw-bold fs-2">Hey There!</Card.Title>
             <Card.Text>

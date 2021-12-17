@@ -10,11 +10,9 @@ function Resume() {
       <Row>
         <Card className="bg-dark my-5 border-0 px-5 text-light">
           <Card.Title className="fw-bold mb-4 fs-2">Resume</Card.Title>
-          <a href="../assets/images/ResumeDev.pdf" download>
-            <button type="button" class="btn btn-primary btn-lg">
-              <AiOutlineDownload />
-              Download Resume
-            </button>
+          <a href="../assets/ResumeDev.png" download="resume">
+            <AiOutlineDownload />
+            Download Resume
           </a>
         </Card>
       </Row>

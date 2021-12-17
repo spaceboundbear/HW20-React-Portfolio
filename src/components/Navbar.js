@@ -11,16 +11,16 @@ function topNav() {
       <Container>
         <Navbar.Brand to="/about">Michael Fischer</Navbar.Brand>
         <Nav className="justify-content-end">
-          <NavLink className=" nav-link" to="/about">
+          <NavLink className="nav-link" to="/about">
             About
           </NavLink>
-          <NavLink className=" nav-link" to="/portfolio">
+          <NavLink className="nav-link" to="/portfolio">
             Portfolio
           </NavLink>
-          <NavLink className=" nav-link" to="/contact">
+          <NavLink className="nav-link" to="/contact">
             Contact
           </NavLink>
-          <NavLink className=" nav-link" to="/resume">
+          <NavLink className="nav-link" to="/resume">
             Resume
           </NavLink>
         </Nav>

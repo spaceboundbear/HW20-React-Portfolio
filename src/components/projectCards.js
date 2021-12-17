@@ -6,8 +6,15 @@ function ProjectCards(props) {
   return (
     <Col>
       <Card className="border-0 grid-item d-flex bg-dark flex-row text-center">
-        <Image src={props.image} />
         <Card.Body>
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ textDecoration: 'none', color: 'white' }}
+            href={props.site}
+          >
+            <Image width={300} height={169} src={props.image} />
+          </a>
           <Card.Text>
             <a
               target="_blank"
@@ -15,17 +22,19 @@ function ProjectCards(props) {
               style={{ textDecoration: 'none', color: 'white' }}
               href={props.site}
             >
-              <p>{props.name}</p>
-            </a>
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ textDecoration: 'none', color: 'white' }}
-              href={props.github}
-            >
-              <h3>
-                <AiFillGithub />
-              </h3>
+              <h4 className="mt-2">
+                {props.name}
+                <a
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ textDecoration: 'none', color: 'white' }}
+                  href={props.github}
+                >
+                  <h3>
+                    <AiFillGithub />
+                  </h3>
+                </a>
+              </h4>
             </a>
           </Card.Text>
         </Card.Body>

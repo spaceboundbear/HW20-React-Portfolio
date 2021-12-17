@@ -13,7 +13,7 @@ function About() {
         <Col sm={12} md={5} lg={4} xl={3} my={3} className="mt-3">
           <Image
             roundedCircle
-            className="py-4 px-2 pb-sm-0 ms-3 mx-auto mx-md-0 img-responsive w-80"
+            className="py-4 px-2 pb-sm-0 ms-3 img-responsive w-80"
             src={Headshot}
           />
         </Col>

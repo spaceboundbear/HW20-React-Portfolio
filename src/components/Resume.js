@@ -10,8 +10,15 @@ function Resume() {
       <Row>
         <Card className="bg-dark my-5 border-0 px-5 text-light">
           <Card.Title className="fw-bold mb-4 fs-2">Resume</Card.Title>
-          <a href="../assets/ResumeDev.png" download="resume">
+          <a
+            className="btn btn-primary"
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://raw.githubusercontent.com/spaceboundbear/HW20-React-Portfolio/main/src/assets/ResumeDev.jpg"
+            download="resume"
+          >
             <AiOutlineDownload />
+            {'  '}
             Download Resume
           </a>
         </Card>

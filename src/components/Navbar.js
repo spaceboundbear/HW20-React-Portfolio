@@ -9,8 +9,10 @@ function topNav() {
   return (
     <Navbar bg="dark" variant="dark" className="sticky-top">
       <Container>
-        <Navbar.Brand to="/about">Michael Fischer</Navbar.Brand>
-        <Nav className="justify-content-end">
+        <Navbar.Brand className="d-none d-sm-block" to="/about">
+          Michael Fischer
+        </Navbar.Brand>
+        <Nav className="justify-content-end  mx-auto mx-md-0">
           <NavLink className="nav-link" to="/about">
             About
           </NavLink>

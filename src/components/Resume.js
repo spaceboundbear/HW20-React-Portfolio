@@ -14,7 +14,7 @@ function Resume() {
             className="btn btn-primary"
             target="_blank"
             rel="noopener noreferrer"
-            href="https://raw.githubusercontent.com/spaceboundbear/HW20-React-Portfolio/main/src/assets/ResumeDev.jpg"
+            href="https://raw.githubusercontent.com/spaceboundbear/HW20-React-Portfolio/main/src/assets/ResumeDeveloper.jpg"
             download="resume"
           >
             <AiOutlineDownload />

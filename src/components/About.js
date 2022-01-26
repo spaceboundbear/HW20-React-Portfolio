@@ -21,11 +21,11 @@ function About() {
           <Card.Body className="my-lg-3 col-9 col-md-12 col-sm-12 my-sm-0 w-100">
             <Card.Title className="fw-bold fs-2">Hey There!</Card.Title>
             <Card.Text>
-              My name is Michael Fischer, and I'm a Full Stack Web Developer (in
-              training) based in San Antonio, TX. When I’m not behind a
-              computer, you can find me scuba diving at the lake, out hiking, or
-              hanging out with my cats. Check out some of my work in my
-              Portfolio, take a look at my Resume and shoot me an email!
+              My name is Michael Fischer, and I'm a Full Stack Web Developer
+              based in San Antonio, TX. When I’m not behind a computer, you can
+              find me scuba diving at the lake, out hiking, or hanging out with
+              my cats. Check out some of my work in my Portfolio, take a look at
+              my Resume and shoot me an email!
             </Card.Text>
           </Card.Body>
         </Col>

@@ -7,7 +7,7 @@ function Portfolio() {
   return (
     <Row>
       <Card className="bg-dark my-5 border-0 px-5 ">
-        <Card.Title className="fw-bold my-2 fs-2">Technologies</Card.Title>
+        <Card.Title className="fw-bold my-2 fs-2">Apps</Card.Title>
         <div className="grid-container d-flex flex-wrap">
           {project.map((pro) => (
             <ProjectCards

@@ -11,7 +11,7 @@
 
 # <span id="desc"></span>
 
-# Project Description:
+# Description:
 
 This is a quick and clean Portfolio made with React
 

@@ -4,11 +4,13 @@
 
 1.[Description](#description)</br> 2.[Installation](#installation)</br> 3.[Usage](#usage)</br> 4.[Contributors](#contributors)</br> 5.[Testing Info](#testing)</br> 6.[License Info](#license)</br> 7.[Questions](#questions)</br>
 
+[Link To Deployed App](https://spaceboundbear.github.io/React-Portfolio/)
+
 # <span id="desc"></span>
 
 # Project Description:
 
-This is a Portfolio made with React
+This is a quick and clean Portfolio made with React
 
 # <span id="installation"></span>
 

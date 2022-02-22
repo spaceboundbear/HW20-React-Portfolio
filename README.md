@@ -1,5 +1,8 @@
 # Title: React Portfolio
 
+![image](https://user-images.githubusercontent.com/86039208/155183128-a576a5f9-b91d-441a-8ca2-a44fbb1e14c9.png)
+
+
 ## Table of Contents
 
 1.[Description](#description)</br> 2.[Installation](#installation)</br> 3.[Usage](#usage)</br> 4.[Contributors](#contributors)</br> 5.[Testing Info](#testing)</br> 6.[License Info](#license)</br> 7.[Questions](#questions)</br>

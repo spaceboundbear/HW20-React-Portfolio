@@ -4,6 +4,7 @@ import WorkoutTracker from './assets/images/workouttracker.png';
 import WeatherDashboard from './assets/images/weatherdashboard.png';
 import ProgressiveBudget from './assets/images/budget.png';
 import Clique from './assets/images/clique.png';
+import LaPaloma from './assets/images/LaPaloma.png';
 
 const Projects = [
   {
@@ -36,10 +37,10 @@ const Projects = [
   },
   {
     id: 5,
-    name: 'Progressive Budget',
-    site: 'https://pacific-sands-39608.herokuapp.com/',
-    github: 'https://github.com/spaceboundbear/HW-19-Budget-Tracker',
-    image: ProgressiveBudget,
+    name: 'La Paloma Realty',
+    site: 'https://lapalomarealty.com/',
+    github: 'https://github.com/spaceboundbear/LaPaloma-Static',
+    image: LaPaloma,
   },
   {
     id: 6,

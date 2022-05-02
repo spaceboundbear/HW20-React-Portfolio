@@ -2,9 +2,9 @@ import EMSwift from './assets/images/emswift.png';
 import NoteTaker from './assets/images/notetaker.png';
 import WorkoutTracker from './assets/images/workouttracker.png';
 import WeatherDashboard from './assets/images/weatherdashboard.png';
-import ProgressiveBudget from './assets/images/budget.png';
 import Clique from './assets/images/clique.png';
 import LaPaloma from './assets/images/LaPaloma.png';
+import ReduxStore from './assets/images/reduxstore.png';
 
 const Projects = [
   {
@@ -23,10 +23,10 @@ const Projects = [
   },
   {
     id: 3,
-    name: 'Workout Tracker',
-    site: 'https://quiet-beyond-84802.herokuapp.com/',
-    github: 'https://github.com/spaceboundbear/HW-18-Workout-Tracker',
-    image: WorkoutTracker,
+    name: 'Redux Store',
+    site: 'https://redux-store-22-utsa.herokuapp.com/',
+    github: 'https://github.com/spaceboundbear/ReduxStoreShop',
+    image: ReduxStore,
   },
   {
     id: 4,

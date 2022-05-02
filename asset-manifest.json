@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/React-Portfolio/static/js/main.d52e757c.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.d52e757c.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.90d8ca0f.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.90d8ca0f.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.409d8683.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.409d8683.js.map",
     "static/css/2.2598ee71.chunk.css": "/React-Portfolio/static/css/2.2598ee71.chunk.css",
@@ -15,6 +15,7 @@
     "static/media/emswift.f4f00f19.png": "/React-Portfolio/static/media/emswift.f4f00f19.png",
     "static/media/headshot.2a5829a7.png": "/React-Portfolio/static/media/headshot.2a5829a7.png",
     "static/media/notetaker.c9de51b1.png": "/React-Portfolio/static/media/notetaker.c9de51b1.png",
+    "static/media/reduxstore.bb695395.png": "/React-Portfolio/static/media/reduxstore.bb695395.png",
     "static/media/utsa.ee145d47.png": "/React-Portfolio/static/media/utsa.ee145d47.png",
     "static/media/weatherdashboard.536b8993.png": "/React-Portfolio/static/media/weatherdashboard.536b8993.png",
     "static/media/workouttracker.c14e1553.png": "/React-Portfolio/static/media/workouttracker.c14e1553.png"
@@ -23,6 +24,6 @@
     "static/js/runtime-main.409d8683.js",
     "static/css/2.2598ee71.chunk.css",
     "static/js/2.d88770d3.chunk.js",
-    "static/js/main.d52e757c.chunk.js"
+    "static/js/main.90d8ca0f.chunk.js"
   ]
 }
